@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">profileScr</string>
+    <string name="profileName">Asmaa Ali Meligy</string>
+    <string name="dOb">23 May</string>
+    <string name="job">Mobile App Dev</string>
+    <string name="mail">asmaameligy@outlook.com</string>
+</resources>
